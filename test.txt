@@ -1,0 +1,7 @@
+tatus
+ 1635  git add .
+ 1636  git status
+ 1637  git commit -m "add new files"
+ 1638  git status
+ 1639  git push 
+
